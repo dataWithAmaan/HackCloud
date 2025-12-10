@@ -161,8 +161,8 @@ TOGETHER_API_KEY=your_together_api_key
 
 ## 🎓 Team
 
-**Person A:** Backend & Cloud API Integration  
-**Person B:** Frontend & UX Design
+**Harsha:** Backend & Cloud API Integration  
+**P2:** Frontend & UX Design
 
 Built with 💚 and ☕ in **72 hours**
 
